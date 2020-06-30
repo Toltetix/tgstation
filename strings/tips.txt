@@ -234,36 +234,36 @@ As a Revenant, the Chaplain is your worst enemy, as they can damage you massivel
 As a Revenant, your essence is also your health, so revealing yourself in front of humans to harvest the essence of the living is much safer if you've already stocked up on essences from poorly guarded corpses.
 As a Revenant, your Defile ability removes holy water from tiles in a small radius, along with salt, allowing you to reclaim the station from the chaplain if they've been covering the station in holy water. It can also be used to open morgue trays!
 As a Revenant, your Overload Lights ability will only shock humans with lights if the lights are still on after a brief delay.
-As a Revenant, your Malfunction ability in general damages machinery and mechanical objects, possibly even emagging some objects. Experiment!
-As a Revenant, the illness inflicted on humans by Blight can be easily cured by lying down or with holy water, making it best used on targets that have no time to lie down, such as humans in combat.
-As a Swarmer, you can deconstruct more things than you think. Try deconstructing light switches, buttons, air alarms and more. Experiment!
-As a Swarmer, you can teleport fellow swarmers away if you think they are in danger.
-As a Morph, you can talk while disguised, but your words have a chance of being slurred, giving you away!
-As a Drone, you can ping other drones to alert them of areas in the station in need of repair.
-As a Ghost, you can see the inside of a container on the ground by clicking on it.
-As a Ghost, you can double click on just about anything to follow it. Or just warp around!
-As a Devil, you gain power for every three souls you control, however you also become more obvious.
-As a Devil, as long as you control at least one other soul, you will automatically resurrect, as long as a banishment ritual is not performed.
-At which time a Devil's nameth is spake on the tongue of man, the Devil may appeareth. 
-As a Security Officer, remember that correlation does not equal causation. Someone may have just been at the wrong place at the wrong time!
-As a Security Officer, remember that you can attach a sec-lite to your taser or your helmet!
-You can swap floor tiles by holding a crowbar in one hand and a stack of tiles in the other.
-When hacking doors, cutting and mending a "test light wire" will restore power to the door.
-When crafting most items, you can either manually combine parts or use the crafting menu.
-Suit storage units not only remove blood and dirt from clothing, but also radiation!
-Remote devices will work when used through cameras. For example: Bluespace RPEDs and door remotes.
-You can light a cigar on a supermatter crystal.
-Walking negates all wallstuns. Walk to avoid flashes, slipping on water, etc. Walking also does not trigger motion detector flashes!
-Cloners require 30 units of synthflesh per clone. When upgraded to tier 4 parts, these cloners can clone one person much cheaper!
-You can perform self-surgery for amputation, tend wounds, implanting and others. It only has 20% success rate though per step, bumping hot to 40% if there's a mirror in the same room.
-When Experimental Surgery is unlocked, you can build an Autodoc. This allows you to automatically add any implant in seconds.
-Fun fact: reading this (https://beestation13.com/rules) may lead to an increase in your chances on not being banned. Seriously. Read it.
-You can whisper by putting # before your message. You can also whisper in critical, however it may kill you depending on how hurt you are.
+Jako Zjawa pamiętaj, że twoja zdolność Szwankowania (Malfunction) psuje maszynerię i inne takie, często wywołując efekt podobny do użycia na nich karty kryptograficznej Syndykatu (Cryptographic Sequencer).
+Jako Zjawa pamiętaj, że choroby wywoływane twoją zdolnością Zarazy (Blight) można łatwo uleczyć przez położenie się lub za pomocą wody święconej, dlatego używaj jej na innych kiedy ci nie mają czasu się położyć, na przykład kiedy walczą.
+Jako członek Roju możesz dekonstruować całą gamę rzeczy na stacji. Eksperymentuj z przełącznikami świateł, przyciskami lub alarmami atmosferycznymi.
+Jako członek Roju możesz teleportować innych jego członków jeśli są zagrożeni.
+Jako Morf możesz rozmawiać kiedy naśladujesz ludzi, ale masz tendencje do seplenienia, co może wydać się innym podejrzane.
+Jako Dron możesz powiadamiać inne drony o miejscach na stacji wymagających napraw.
+Jako Duch możesz sprawdzić zawartość danego pojemnika klikając na niego.
+Jako Duch kliknij dwa razy na czymkolwiek by podąrzać za tym. Możesz także w ten sposób teleportować się do rzeczy które cię ciekawią!
+Jako Diabeł każde trzy pozyskane dusze dają ci silniejszą, lecz mniej subtelną formę.
+Jako Diabeł tak długo jak masz pod swoją pieczą chociaż jedną duszę, zostaniesz wskrzeszony, pod warunkiem, że nikt nie dokona rytuału mającego na celu wygnanie cię.
+Gdy imię Diabła wyrzekną usta człowiecze, Diabeł wizytą zaskoczy człowieka. 
+Jako Funkcjonariusz Ochrony pamiętaj, że zbiegi okoliczności się zdarzają. Ktoś po prostu mógł być w złym miejscu o złym czasie!
+Jako Funkcjonariusz Ochrony pamiętaj, że możesz przymocować latarkę Ochrony (seclite) do swojego paralizatora lub do hełmu!
+Możesz szybciej wymieniać płyty podłogowe trzymając ich zapas w jednej ręce i łom w drugiej.
+Podczas hakowania drzwi, przecięcie i złączenie kabla światełka kontrolnego (test light wire) przywróci zasilanie w drzwiach.
+Podczas wytwarzania przedmiotów możesz albo składać je ręcznie po kolei lub użyć menu wytwarzania.
+Punkty przechowywania kombinezonów nie tylko usuwają z nich krew i brud, ale także promieniowanie!
+Urządzenia działające zdalnie mogą być używane przez widok z kamer. Takie urządzenia to chociażby Błękitowe Urządzenia Szybkiej Wymiany Części (Bluespace RPED) i piloty do drzwi (Door Remote).
+Możesz zapalić cygaro kryształem supermaterii.
+Chodzenie (w przeciwieństwie do biegania) neguje wszystkie ogłuszenia od uderzeń w ścianę. Idąc unikasz bycia oślepionym, poślizgnięcia się na wodzie, itd. Chodząc unikasz także wykrywaczy ruchu!
+Maszyny do klonowania potrzebują 30 jednostek syntciał (synthflesh) na każdego klona. Przy ulepszeniu ich części na czwarty poziom, stają się bardziej wydajne.
+Możesz sam się operować by dokonać między innymi amputacji lub zainstalować implant. Szansa powodzenia każdego kroku operacji wynosi wtedy 20%, chyba, że w pokoju znajduje się lustro, wówczas podbija ona do 40%.
+Po wynalezieniu Chirurgi Eksperymentalnej (Experimental Surgery) możesz zbudować Auto-doktora (Autodoc). Za jego pomocą możesz dodać pacjentowi dowolny implant w parę sekund.
+Mała ciekawostka: Czytanie zasad zwiększa twoje szanse niezostania zbanowanym. Naprawdę. Dlatego je czytaj.
+Możesz szeptać stawiając znak # przed twoją wiadomością. Możesz nawet szeptać w stanie krytycznym, choć może to skończyć się twoim zgonem.
 Fore = north, aft = south, starboard = east and port = west.
-If you use a Cup Ramen on a sink twice, it becomes warm.
-Death is normal. Chances are you'll get cloned, anyways.
-Emping the AI has a chance to call the emergency shuttle.
-Beating revolutionaries over the head has a chance to deconvert them.
-You can examine someone to tell if their red eyes are natural or cultist.
-You can put holy water in darts to make them more effective against cultists. Or use the shotgun, cause it doesn't miss.
-Don't know what a word means? https://wiki.beestation13.com/view/Terminology
+Jeśli użyjesz Cup Ramen na zlewie dwa razy to podgrzejesz go.
+Śmierć jest normą. I tak masz sporą szansę na bycie sklonowanym.
+Użycie EMP na SI ma szanse przyzwać prom ratunkowy.
+Bicie rewolucjonistów w głowę czasami ich konwertuje z powrotem na stronę stacji.
+Jeśli kogoś sprawdzisz (funkcja Examine) możesz stwierdzić, czy mają naturalnie czerwone oczy, czy należą do kultu.
+Używaj wody święconej w pociskach pozwalających aplikować substancje chemiczne kiedy walczysz z kultem. Są to na przykład strzałki aplikujące w strzelbach lub strzykawki w pistoletach strzykawkowych.
+Nie wiesz co oznacza jakiś wyraz? Tutaj znajdziesz ich wytłumaczenie po angielsku: https://wiki.beestation13.com/view/Terminology 
